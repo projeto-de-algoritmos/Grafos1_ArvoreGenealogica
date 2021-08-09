@@ -10,7 +10,9 @@
 | 19/0019158  |  Rafael Leão Teixeira de Magalhães |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Projeto de algoritmos visando a implementação de bfs ou dfs. Optamos por uma exibição da árvore genealógica da família real implementando bfs para mostrar seus parentescos.
+
+Video de apresentação: https://youtu.be/vjeb-4xA54Y
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
