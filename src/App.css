@@ -2,7 +2,7 @@
    width: 100%;
    height: 100vh;
    display: grid;
-   grid-template-columns: 20% 1fr;
+   grid-template-columns: 30% 1fr;
    grid-template-areas: 'sidebar content';
 }
 .div-lateral{
@@ -27,4 +27,15 @@
     align-self: center;
     height: 80%;
     border-radius: 20px;
+}
+
+.tree {
+    margin-top: 15px;
+}
+
+.select {
+    width: 80%;
+    background-color: #eee;
+    border-radius: 20px;
+    padding: 10px;
 }
